@@ -1,11 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+title: Typography, Politics and You
+description: An in-depth look into the relationships between different typefaces
+  and their political connotations.
+header_text: ""
+footer_text: Copyright 2020 Ella Horrell
+header_feature_image: ../uploads/elliott-stallion-1uy8uuukids-unsplash.jpg
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
