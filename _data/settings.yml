@@ -5,7 +5,7 @@ header_text: ""
 footer_text: Copyright 2020 Ella Horrell
 header_feature_image: ../uploads/elliott-stallion-1uy8uuukids-unsplash.jpg
 bannerheight: 10vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/unnamed.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
