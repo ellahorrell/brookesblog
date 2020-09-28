@@ -8,5 +8,5 @@ bannerheight: 10vmax
 logo: ../uploads/unnamed.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
