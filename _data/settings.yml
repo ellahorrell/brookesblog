@@ -4,9 +4,9 @@ description: An in-depth look into the relationships between different typefaces
 header_text: ""
 footer_text: Copyright 2020 Ella Horrell
 header_feature_image: ../uploads/img_1190.jpg
-bannerheight: 20vmax
-logo: ../uploads/logo.png
-favicon: /uploads/favicon.ico
+bannerheight: 10vmax
+logo: ../uploads/untitled-1.png
+favicon: ../uploads/untitled-1.png
 gridlayout: false
 fixednavbar: true
 upzoom: true
