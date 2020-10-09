@@ -5,6 +5,7 @@ date: 2020-10-09T10:39:18.677Z
 header_feature_image: ../uploads/7349055626_358c992c6c_3k.jpg
 caption: A 1930's specimen booklet for Futura from Bauer Alphabets Inc.
 comments: true
+tags: null
 ---
 Whether we know it or not, the **Futura** typeface will have crossed our paths many times in our life. It is seen in popular modern brand logos like Supreme, Red Bull and Paypal, but its most common use has been within history, most notably featured on the **Apollo 11 moon landing**, and in 20th century Germany, Futura's birthplace.
 
