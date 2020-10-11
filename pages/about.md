@@ -11,6 +11,3 @@ description: null
 show: true
 ---
 This blog site will highlight the most prolific political typefaces within history, and discuss the meaning and psychology behind why fonts are so influential in political contexts.
-
-
-Repository link: github.com/ellahorrell/brookesblog
