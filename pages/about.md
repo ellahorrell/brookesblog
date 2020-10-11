@@ -10,4 +10,4 @@ tags: null
 description: null
 show: true
 ---
-This blog site will highlight the most prolific political typefaces within history, and discuss the meaning and psychology behind why fonts are so influential in political contexts.
+Typefaces have more of an agenda than we may want to believe. Each line and curve that makes up a font carries a meaning. This collection of articles aims to give readers a better understanding as to how typefaces influence politics and breathe new life into historical and modern propaganda.
