@@ -12,6 +12,8 @@ In a 2012 study conducted by writer and filmmaker Errol Morris, a quiz was publi
 
 Serif-style typefaces like Baskerville often feels more believable because they are seen as traditional and formal compared to more modern sans-serif fonts like Arial, or even Comic Sans. It was clear that Comic Sans felt the least credible because it was inappropriate to use that typeface in a formal, research-based setting.
 
+![Jeb Bush's 2016 presidential campaign logo featuring Baskerville.](../uploads/cm4cwnnk7a66ti4wdrc53uc5j4.jpg)
+
 This idea of formality and trustworthiness in typefaces extends past just research, and into our everyday politics. Gothic and traditional fonts, as well as bolder typefaces are considered more conservative and right-leaning, while sans-serif and modernist fonts are perceived more left-leaning. This could be due to a variety of factors, but the one that makes the most sense is that the perception of these two styles is directly linked to the historical foundations and initial judgments about those two political stances: liberal and left advertising and marketing tends to be more focused on the future, while conservative propaganda often stick to traditional core values.
 
 In conclusion, based on historical contexts, appropriate settings and our own perceptions, there are conscious decisions made when deciding on a typeface to use, and this is especially important within political campaign designs in order to be perceived as the most honest candidate. Fonts are highly influential, and yes, some are subconsciously recognized as more trustworthy than others.
