@@ -16,7 +16,7 @@ Within this website, the typographical and design choices I have made are all de
 
 ![The Helvetica Neue font family](../uploads/bd599a56b37aa72fc4a54c2e04e8b47b.png)
 
-The typeface used in the actual website is Josefin Sans Pro. I chose to use the same typeface in both the headings and body, in order to not overwhelm the reader by using too many fonts.
+The typeface used in the actual website is Source Sans Pro. I chose to use the same typeface in both the headings and body, in order to not overwhelm the reader by using too many fonts.
 
 I chose to keep the background a light grey to offset the brightness of the whites in the main body of the website in order to be easier on the eye. Red and deep blue are the main colour motifs of the blog, in order to keep the political theme prevalent. I made the decision to use a darker blue and a slightly less vibrant red, however, in order not to non-verbally shout at any readers through the screen; I wanted to keep this blog as neutral and inviting as possible, as discussing politics is often a heavy topic.
 
