@@ -2,7 +2,7 @@
 layout: post
 title: The Futura of Fascism
 date: 2020-10-09T10:39:18.677Z
-header_feature_image: ""
+header_feature_image: ../uploads/futura-type-of-today-ad.jpeg
 caption: A 1930's specimen booklet for Futura from Bauer Alphabets Inc.
 comments: true
 tags: null
