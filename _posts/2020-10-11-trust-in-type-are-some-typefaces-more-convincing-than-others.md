@@ -3,7 +3,7 @@ layout: post
 title: "Trust in Type: Are Some Typefaces More Convincing Than Others?"
 date: 2020-10-11T19:52:20.325Z
 header_feature_image: ../uploads/img_5091.jpg
-caption: Photography by Rachel Osier-Lindley for Texas Standard, 2018
+caption: Photograph by Rachel Osier-Lindley for Texas Standard, 2018
 comments: false
 ---
 Fonts play a big role in branding a political party. While it is important to choose a typeface that well represents the values one holds, the typographical choices a graphic designer makes while creating a set of logos and campaign designs carry a lot more influence than one may initially like to believe.
