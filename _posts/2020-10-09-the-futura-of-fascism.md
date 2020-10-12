@@ -9,7 +9,7 @@ tags: null
 ---
 Whether we know it or not, the **Futura** typeface will have crossed our paths many times in our life. It is seen in popular modern brand logos like Supreme, Red Bull and Paypal, but its most common use has been within history, most notably featured on the **Apollo 11 moon landing**, and in 20th century Germany, Futura's birthplace.
 
-![A photograph of the plaque sent to the moon on the Apollo 11 rocket.](../uploads/33.jpg)
+![A photograph of the commemorative plaque for the Apollo 11 moon landing.](../uploads/1_guv6tt89azvvx_6uafgsia.jpeg)
 
 Like its name suggests, German-born designer **Paul Renner** created Futura as a modern and futuristic sans-serif typeface, much different to the traditional serif styles fonts of the early 1900's. It was used abundantly by modern art pioneers at Bauhaus to reflect positive social change, democracy and revolt until its closure in 1933, prompted by the uprise in German Nazism.
 
