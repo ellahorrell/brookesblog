@@ -12,6 +12,7 @@
     background: #ffc728;
     padding: 50px;
     box-sizing:border-box;
+    flex-direction: row;
   }
 
   .internalcontainerL{
@@ -29,6 +30,14 @@
     font-size: 12px;
     font-family: 'helvetica', sans-serif;
   }
+
+@media screen and (max-width: 768px) {
+  .holdingcontainer{
+    flex-direction: column;
+  }
+} 
+
+  
   </style>
 </head>
 
