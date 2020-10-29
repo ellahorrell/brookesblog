@@ -1,7 +1,34 @@
+* {
+  margin:4;
+}
+
 body {
 
 }
 
 h1 {
-  
+margin: 10px 5px 5px 5px;
+}
+
+p{
+  margin-bottom: 20px;
+}
+
+main {
+  margin: 20px auto;
+  display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.info {
+
+  flex-basis: 400px;
+  margin: 0 10px;
+}
+
+.gallery {
+  flex-basis: 400px;
+  margin: 0 10px;  
 }
