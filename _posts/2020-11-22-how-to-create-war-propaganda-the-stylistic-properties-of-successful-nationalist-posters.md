@@ -28,4 +28,6 @@ To play to an audience’s patriotic values, using colours and symbolism with an
 
 ![A piece of British WW1 propaganda, targeting Jewish Brits to enlist in the military.](../uploads/ww1-briton.jpg)
 
+21st Century propaganda doesn't manifest itself as obliviously as world war campaigns did back in the 1900's, however that is not to say these design attributes are still used in propaganda. In the present day, algorithm-based online advertising is a common form of propaganda. That alongside social media driven misinformation are incredible hubs of propaganda full of passion and emotion, which many far-right leaders play on in order to get their way in politics.
+
 In conclusion, the main elements that make up a piece of “successful” war propaganda are easily manifested into a piece of design. Focusing on a nationalist colour schemes as well as traditional typefaces and illustration techniques are a simple yet effective way to catch the eye of conservative members of the electorate.
