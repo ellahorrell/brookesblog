@@ -3,6 +3,8 @@ layout: post
 title: "How To Create War Propaganda: The Stylistic Properties of Successful
   Nationalist Posters"
 date: 2020-11-22T23:11:40.571Z
+header_feature_image: ../uploads/yikes.jpg
+caption: From the Official Conservatives Twitter Account (3/11/20)
 comments: true
 ---
 War is an inherently fascist idea. Often it is used as an example for how fascism manifests itself in society. It is the idea of nostalgia, success, and patriotism. If it were not for the carefully articulated text and design of war propaganda, people would be more pacifist. It is important to understand and explore the way propaganda is crafted to pick it apart and decide whether our views truly match up with what we are being fed.
