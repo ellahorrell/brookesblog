@@ -3,6 +3,8 @@ layout: post
 title: "\"Gotham\" and \"Hope\": The History of Obama's Infamous 2008 Election
   Campaign"
 date: 2020-11-22T23:16:44.908Z
+header_feature_image: ../uploads/hope-spoofs.jpg
+caption: A series of spoofs of the original "Hope" artwork.
 comments: true
 ---
 We’ve all seen the iconic “Hope” poster, depicting Barack Obama in posterized red, white and blue, but few know its origin, or the story of “Gotham”, the chosen typeface.
