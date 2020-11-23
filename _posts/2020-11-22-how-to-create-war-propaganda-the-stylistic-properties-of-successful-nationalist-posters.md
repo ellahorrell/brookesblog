@@ -7,6 +7,8 @@ comments: true
 ---
 War is an inherently fascist idea. Often it is used as an example for how fascism manifests itself in society. It is the idea of nostalgia, success, and patriotism. If it were not for the carefully articulated text and design of war propaganda, people would be more pacifist. It is important to understand and explore the way propaganda is crafted to pick it apart and decide whether our views truly match up with what we are being fed.
 
+![An "Uncle Sam" poster variant from a collection of American First World War posters kept by the Late David Schwarz.](../uploads/uncle-sam.jpg)
+
 The idea, when it comes to this style of propaganda, is to tailor to traditionalist ideologies. Have a look at some of the traits of right-wing politics:
 
 * Blaming other races, nations, religions, and other groups for the problems within your country
@@ -23,5 +25,7 @@ Using illustrations in propaganda is also a popular tactic as there are endless 
 Make sure illustrations clearly feature soldiers and military figures as heroes and elevate their status. This technique is evident whenever referring to a less glamorous, low salaried and laborious job, just like how we see the NHS being portrayed during the COVID-19 pandemic.
 
 To play to an audience’s patriotic values, using colours and symbolism with an association to a country is key. The most memorable pieces of propaganda use these tactics. For example, stars and stripes, and red/white/blue colour schemes are popular within American propaganda.
+
+![A piece of British WW1 propaganda, targeting Jewish Brits to enlist in the military.](../uploads/ww1-briton.jpg)
 
 In conclusion, the main elements that make up a piece of “successful” war propaganda are easily manifested into a piece of design. Focusing on a nationalist colour schemes as well as traditional typefaces and illustration techniques are a simple yet effective way to catch the eye of conservative members of the electorate.
